@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sinamorida
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning mathematics and computer science 
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m @sinamorida. im a mathematics student who intrested to use math in real world so i decided to study about AI and datascience. recently i was Curious about blockchain and tried to expand my career.now i wanna share some of my exprience to you.
+- 
 - 📫 How to reach me ...
+  sinamorida@yahoo.com
 
 <!---
 sinamorida/sinamorida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
